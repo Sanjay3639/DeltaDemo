@@ -1,2 +1,2 @@
 # DeltaDemo
-Learning Delta from Apnna College
+Learning Delta from Apna College
